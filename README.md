@@ -1,1 +1,1 @@
-# Eunhae_final_project
+# USDA zones information for gardening
